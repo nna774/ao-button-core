@@ -1,8 +1,5 @@
 import * as React from 'react';
 
-interface AppProps {
-};
-
-export default function(prop: AppProps ) {
+export default function() {
     return <h1>Hello</h1>;
-};
+}

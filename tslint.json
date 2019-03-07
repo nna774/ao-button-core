@@ -4,5 +4,6 @@
    "tslint:recommended"
  ],
  "rules": {
+    "quotemark": [true, "single", "avoid-secape"]
  }
 }
