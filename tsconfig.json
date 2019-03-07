@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "noImplicitAny": true,
+    "sorceMap": true,
+    "target": "es6",
+    "moduleResolution":"node"
+  }
+}
